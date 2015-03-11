@@ -17,8 +17,9 @@ public class Main {
         }
         */
 
+        //intialize i to o then we add the termination and then we increment
         for ( int i = 0; i<=100; i++) {
-
+            //Print i
             System.out.println(i);
         }
 
